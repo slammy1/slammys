@@ -1,4 +1,4 @@
-                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/slammy1/up3q29wibg3qiu3gub3gqubiq3gbui3gbu3gqbui23gqiub3gqui23gquib23guibg32uiybg123uyb8g132uiyb231goui32c7n/main/up3q29wibg3qiu3gub3gqubiq3gbui3gbu3gqbui23gqiub3gqui23gquib23guibg32uiybg123uyb8g132uiyb231goui32c7n", true))()
+                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/slammy1/up3q29wibg3qiu3gub3gqubiq3gbui3gbu3gqbui23gqiub3gqui23gquib23guibg32uiybg123uyb8g132uiyb231goui32c7n/main/up3q29wibg3qiu3gub3gqubiq3gbui3gbu3gqbui23gqiub3gqui23gquib23guibg32uiybg123uyb8g132uiyb231goui32c7n"))()
                             Aiming.TeamCheck(false)
                              
                             
